@@ -1,0 +1,9 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^example\.R$
+^mMPA\_todo\.org$
+^fig$
+^Readme\.md$
+^\.gitignore$
+^README.Rmd
+^\_config\.yml
