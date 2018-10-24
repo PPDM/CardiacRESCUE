@@ -2,7 +2,9 @@
 
 An R package software that provides tools for assessing one-year risk of MACE for patients with stable angina symptoms who undergo an imaging test for diagnosis of ischemic heart disease, where the image results are used for guiding subsequent treatment. 
 
-## Software Authors: Haiyun Yuan MD; Xiaobing Liu MD, Tao Liu PhD
+## Software Authors: 
+
+Haiyun Yuan MD; Xiaobing Liu MD, Tao Liu PhD
 
 
 **REF:** 
