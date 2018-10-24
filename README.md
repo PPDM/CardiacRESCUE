@@ -112,4 +112,4 @@ boxplot(cbind(MP=apply(foo_mp, 2, mean),
 
 ---
 
-Research Team of PanPacific Data Maniacs (PPDM)
+**Research Team of PanPacific Data Maniacs (PPDM)**
