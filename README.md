@@ -1,13 +1,13 @@
 # CardiacRESCUE
 
-An R package software that provides tools for assessing one-year risk of MACE for patients with stable angina symptoms who undergo an imaging test for diagnosis of ischemic heart disease, where the image results are used for guiding subsequent treatment. 
+An R package software that provides tools for assessing one-year risk of MACE (Major Adverse Cardiovascular Event) for patients with stable angina symptoms who undergo an imaging test for diagnosis of ischemic heart disease, where the image results are used for guiding subsequent treatment. 
 
 ## Software Authors: 
 
-Haiyun Yuan MD; Xiaobing Liu MD, Tao Liu PhD
+Haiyun Yuan, MD;  Xiaobing Liu, MD; Yanji Qu, MD; Tao Liu PhD
 
 
-**REF:** 
+**References:** 
 
 Stillman AE, Gatsonis C, Lima J, Liu T, Snyder B, Cormack JA, Malholtra  V, Schnall MD, Udelson JE, Hoffmann U, Woodard PK (2018). “Coronary CT Angiography Compared with SPECT MPI as a Guide to Optimal Medical Therapy in Patients Presenting with Symptoms of Stable Angina Pectoris: The RESCUE Trial A Randomized Clinical Trial”. JAMA, under review.  
 
