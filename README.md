@@ -4,7 +4,7 @@ An R package software that provides tools for assessing one-year risk of MACE (M
 
 ## Software Authors: 
 
-Haiyun Yuan, MD;  Xiaobing Liu, MD; Yanji Qu, MD; Tao Liu PhD
+Haiyun Yuan, MD;  Xiaobing Liu, MD; Yanji Qu, PhD; Dandong Luo, MD; Tao Liu PhD
 
 
 **References:** 
